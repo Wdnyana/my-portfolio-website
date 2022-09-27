@@ -1,2 +1,2 @@
 # my-portfolio-website
-The Website Portfolio 'Purwa Wiadnyana'
+The Website Portfolio of 'Purwa Wiadnyana'
